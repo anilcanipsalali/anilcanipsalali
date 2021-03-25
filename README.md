@@ -1,6 +1,6 @@
 ### Hi there, I'm Anılcan İpsalalı <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/anilcanipsalali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anilcanipsalali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=anilcanipsalali)
 ### About Me:
 
 I'm student at Uskudar University
