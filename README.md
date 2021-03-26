@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, C#, Javascript, Unity**
 
-- 👨‍💻 All of my projects are available at [github.com/anilcanipsalali]
+- 👨‍💻 All of my projects are available at [github.com/anilcanipsalali](github.com/anilcanipsalali)
 
 - 📫 How to reach me: **anilcan.ipsalali@gmail.com**
 
