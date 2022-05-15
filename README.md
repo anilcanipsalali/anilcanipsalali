@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilcanipsalali&label=Profile%20views&color=ffee00&style=flat" alt="anilcanipsalali" /> </p>
 
-- 🌱 I’m currently learning **Java, C#, Python**
+- 🌱 I’m currently learning **Java, Spring Framework**
 
 - 👨‍💻 All of my projects are available at [github.com/anilcanipsalali](github.com/anilcanipsalali)
 
