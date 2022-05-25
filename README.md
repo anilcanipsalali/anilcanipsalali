@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anılcan İpsalalı <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<h3 align="center">A passionate Software Engineer from Turkey</h3>
+<h3 align="center">Software Engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilcanipsalali&label=Profile%20views&color=ffee00&style=flat" alt="anilcanipsalali" /> </p>
 
