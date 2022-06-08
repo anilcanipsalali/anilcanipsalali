@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anılcan İpsalalı <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi, I'm Anılcan İpsalalı <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 </h1>
 <h3 align="center">Software Engineer from Turkey</h3>
 
