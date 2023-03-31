@@ -16,6 +16,6 @@
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="pl/sql" width="30" height="40"/></a>
 </p>
 
-<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilcanipsalali&show_icons=true&locale=en&layout=compact" alt="anilcanipsalali" /></p> 
-<p><img align="justify" src="https://github-readme-stats.vercel.app/api?username=anilcanipsalali&show_icons=true&locale=en" alt="anilcanipsalali" /></p>
-<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=anilcanipsalali&" alt="anilcanipsalali" /></p>
+<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilcanipsalali&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="anilcanipsalali" /></p> 
+<p><img align="justify" src="https://github-readme-stats.vercel.app/api?username=anilcanipsalali&theme=tokyonight&show_icons=true&locale=en" alt="anilcanipsalali" /></p>
+<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=anilcanipsalali&theme=tokyonight" alt="anilcanipsalali" /></p>
