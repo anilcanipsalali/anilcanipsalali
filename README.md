@@ -1,8 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=anilcanipsalali&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 💫 About Me: 
-4th grade Software Engineering student in Üsküdar University, studying Computer Engineering as a minor at the same time.
-Currently employed by QNB Sigorta as Software Development Intern.
+I am a graduate of Software Engineering from Üsküdar University. Additionally, I pursued a minor in Computer Engineering. I am developer with a strong passion for the world of software development. Over the years, I have gained extensive experience in this field and have been involved in various projects. I am constantly striving to enhance my skills in backend and frontend development to embrace new technologies with an open mind.
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anilcanipsalali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilcanipsalali) 
